@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(253, 233, 165);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container{
+    width: 50%;
+    margin: 20px auto 0px auto ;
+    outline: 1px rgb(255, 244, 214) solid;
+    border-radius: 5px;
+    background-color: rgb(253, 223, 125);
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.add-task{
+    outline: 1px rgb(218, 218, 218) solid;
+    margin-left: 5px;
+    background-color: white;
+}
+
+.add-task:hover{
+    font-weight: bolder;
+}
+
+em{
+    margin: 10px
+}
+
+.change-title{
+    margin-bottom: 10px;
+}
+
+.text1{
+    font-weight: bold;
+    margin: 5px;
+}
+
+.change-title{
+    border-radius: 5px;
+    border-color: rgb(197, 196, 196);
+    border-style: solid;
+}
